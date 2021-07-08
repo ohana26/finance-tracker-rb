@@ -1,0 +1,3 @@
+== README
+
+Course finance trackr app
